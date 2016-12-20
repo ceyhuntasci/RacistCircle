@@ -1,0 +1,16 @@
+{
+		"LevelID": 21,		
+		"ObjectiveId": 1,
+	        "ObjectiveScore" : 50,
+		"ObjectiveColor" : "blue",
+        	"BubbleSpeed" : 15,
+		"ColorCount" : 3,
+		"ObjectiveCount" : 0,
+		"Time" : 60,
+		"FastBubbleTimer" : 0,
+		"Title" : "Objective",
+		"Info" : "Get 50 score from blue bubbles in 60 seconds",
+		"TutorialTitle" : "",
+		"TutorialText" : ""
+
+}

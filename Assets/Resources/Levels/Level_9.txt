@@ -1,0 +1,16 @@
+{
+		"LevelID": 9,		
+		"ObjectiveId": 2,
+	        "ObjectiveScore" : 3,
+		"ObjectiveColor" : "",
+        	"BubbleSpeed" : 15,
+		"ColorCount" : 2,
+		"ObjectiveCount" : 3,
+		"Time" : 60,
+		"FastBubbleTimer" : 0,
+		"Title" : "Objective",
+		"Info" : "Try to pop 3 bubbles at once for 3 times.",
+		"TutorialTitle" : "",
+		"TutorialText" : ""
+
+}

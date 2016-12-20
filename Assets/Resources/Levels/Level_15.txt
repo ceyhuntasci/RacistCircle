@@ -1,0 +1,16 @@
+{
+		"LevelID": 15,		
+		"ObjectiveId": 3,
+	        "ObjectiveScore" : 1,
+		"ObjectiveColor" : "",
+        	"BubbleSpeed" : 15,
+		"ColorCount" : 2,
+		"ObjectiveCount" : 0,
+		"Time" : 0,
+		"FastBubbleTimer" : 3,
+		"Title" : "Rule",
+		"Info" : "There are some speedy bubbles. Try to pop one",
+		"TutorialTitle" : "",
+		"TutorialText" : ""
+
+}

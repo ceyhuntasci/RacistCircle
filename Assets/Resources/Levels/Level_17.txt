@@ -1,0 +1,16 @@
+{
+		"LevelID": 17,		
+		"ObjectiveId": 3,
+	        "ObjectiveScore" : 5,
+		"ObjectiveColor" : "",
+        	"BubbleSpeed" : 15,
+		"ColorCount" : 2,
+		"ObjectiveCount" : 0,
+		"Time" : 40,
+		"FastBubbleTimer" : 3,
+		"Title" : "Rule",
+		"Info" : "Pop 5 speedy bubbles in 40 seconds",
+		"TutorialTitle" : "",
+		"TutorialText" : ""
+
+}

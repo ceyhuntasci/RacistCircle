@@ -1,0 +1,5 @@
+Android plugin path: C:/Users/ceyhu_000/Desktop/RacistCircle/RacistCircle/Assets\Plugins/Android/
+Android adjust path: C:/Users/ceyhu_000/Desktop/RacistCircle/RacistCircle/Assets\Adjust/Android/
+has adjust install referrer receiver?: True
+has internet permission?: True
+has wifi permission?: True

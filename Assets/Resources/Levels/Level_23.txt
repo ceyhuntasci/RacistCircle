@@ -1,0 +1,16 @@
+{
+		"LevelID": 23,		
+		"ObjectiveId": 1,
+	        "ObjectiveScore" : 300,
+		"ObjectiveColor" : "",
+        	"BubbleSpeed" : 15,
+		"ColorCount" : 2,
+		"ObjectiveCount" : 0,
+		"Time" : 90,
+		"FastBubbleTimer" : 0,
+		"Title" : "Objective",
+		"Info" : "Get 300 score in 90 seconds",
+		"TutorialTitle" : "",
+		"TutorialText" : ""
+
+}

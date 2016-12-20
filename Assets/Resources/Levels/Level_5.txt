@@ -1,0 +1,16 @@
+{
+		"LevelID": 5,		
+		"ObjectiveId": 1,
+       	        "ObjectiveScore" : 50,
+		"ObjectiveColor" : "red",
+	        "BubbleSpeed" : 15,
+		"ColorCount" : 2,
+		"ObjectiveCount" : 0,
+		"Time" : 60,
+		"FastBubbleTimer" : 0,
+		"Title" : "Rule",
+		"Info" : "Let's change the rules a bit. You can only get score from red bubbles",
+		"TutorialTitle" : "",
+		"TutorialText" : ""
+
+}

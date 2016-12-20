@@ -1,0 +1,16 @@
+{
+		"LevelID": 2,		
+		"ObjectiveId": 1,
+     	        "ObjectiveScore" : 50,
+		"ObjectiveColor" : "",
+		"BubbleSpeed" : 15,
+		"ColorCount" : 2,
+		"ObjectiveCount" : 0,
+		"Time" : 0,
+		"FastBubbleTimer" : 0,
+		"Title" : "Rule",
+		"Info" : "Have at least 2 bubbles of the same color to pop them",
+		"TutorialTitle" : "",
+		"TutorialText" : ""
+
+}

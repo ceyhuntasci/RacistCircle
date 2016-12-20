@@ -1,0 +1,16 @@
+{
+		"LevelID": 24,		
+		"ObjectiveId": 2,
+	        "ObjectiveScore" : 5,
+		"ObjectiveColor" : "",
+        	"BubbleSpeed" : 15,
+		"ColorCount" : 2,
+		"ObjectiveCount" : 5,
+		"Time" : 60,
+		"FastBubbleTimer" : 0,
+		"Title" : "Objective",
+		"Info" : "Pop 5 bubbles at once for 5 times",
+		"TutorialTitle" : "",
+		"TutorialText" : ""
+
+}

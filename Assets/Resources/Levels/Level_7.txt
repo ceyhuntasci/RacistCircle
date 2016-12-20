@@ -1,0 +1,16 @@
+{
+		"LevelID": 7,		
+		"ObjectiveId": 1,
+	        "ObjectiveScore" : 100,
+		"ObjectiveColor" : "",
+		"BubbleSpeed" : 15,
+		"ColorCount" : 3,
+		"ObjectiveCount" : 0,
+		"Time" : 60,
+		"FastBubbleTimer" : 0,
+		"Title" : "Objective",
+		"Info" : "This will be hard. Get 100 score in 60 seconds",
+		"TutorialTitle" : "",
+		"TutorialText" : ""
+
+}
